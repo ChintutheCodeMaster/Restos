@@ -1,0 +1,50 @@
+[
+  {
+    "id": 101,
+    "name": "Tandoori Treats",
+    "location": "Bangalore",
+    "cuisine": "North Indian",
+    "image": "/images/tandoori.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+  {
+    "id": 102,
+    "name": "Sushi Bay",
+    "location": "Mumbai",
+    "cuisine": "Japanese",
+    "image": "/images/sushi.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+  {
+    "id": 103,
+    "name": "Pasta Palace",
+    "location": "Delhi",
+    "cuisine": "Italian",
+    "image": "/images/pasta.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+  {
+    "id": 104,
+    "name": "Burger Hub",
+    "location": "Hyderabad",
+    "cuisine": "American",
+    "image": "/images/burger.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+  {
+    "id": 105,
+    "name": "Naan Chilla",
+    "location": "Hyderabad",
+    "cuisine": "American",
+    "image": "/images/burger.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+  {
+    "id": 106,
+    "name": "Dessert Island",
+    "location": "Hyderabad",
+    "cuisine": "American",
+    "image": "/images/burger.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  }
+]
