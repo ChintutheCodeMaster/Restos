@@ -19,21 +19,15 @@ Top 3 restaurants by revenue
 Filters for restaurant, date, order amount, and hour
 Pagination for efficient handling
 
-Tech Stack
+### Tech Stack
 Frontend: React.js, TailwindCSS
 Backend: PHP (no framework)
 Database: JSON datasets (restaurants.json, orders.json)
 
-Set up Instructions 
-1. git clone https://github.com/ChintutheCodeMaster/Restos.git
-2. cd restaurant-dash -> npm run dev 
-3. To start the backend server 
-Either cd into the backend folder and run the index.php script or, 
-move the folder into xampp htdocs and serve the script through the xamp server. 
 
-## ⚙️ Setup Instructions
+##  Setup Instructions
 
-### 1. Clone the Repository
+1. Clone the Repository
 inside bash
 git clone https://github.com/ChintutheCodeMaster/Restos.git
 cd Restos
