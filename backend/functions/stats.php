@@ -36,7 +36,7 @@ function getRestaurantStats(int $restaurantId, ?string $start = null, ?string $e
     foreach ($daily as $date => $stats) {
         $peakHour = null;
         if (!empty($stats["hours"])) {
-            arsort($stats["hours"]); // highest count first
+            arsort($stats["hours"]); 
             $peakHour = array_key_first($stats["hours"]);
         }
         $avgOrder = $stats["orders"] > 0 ? round($stats["revenue"] / $stats["orders"], 2) : 0;

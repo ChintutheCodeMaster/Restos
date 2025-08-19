@@ -33,16 +33,16 @@
   },
   {
     "id": 105,
-    "name": "Naan Chilla",
-    "location": "Hyderabad",
+    "name": "De Burger Times",
+    "location": "Chennai",
     "cuisine": "American",
     "image": "/images/burger.jpg",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
   },
   {
     "id": 106,
-    "name": "Dessert Island",
-    "location": "Hyderabad",
+    "name": "Burger Singh",
+    "location": "Pune",
     "cuisine": "American",
     "image": "/images/burger.jpg",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
